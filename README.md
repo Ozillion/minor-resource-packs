@@ -1,0 +1,1 @@
+# minor-resource-packs
